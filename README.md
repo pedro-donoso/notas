@@ -1,3 +1,1 @@
-# notas
-
-## agrego readme
+# https://pedro-donoso.github.io/notas/
